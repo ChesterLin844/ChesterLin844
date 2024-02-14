@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChesterLin844&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChesterLin844&theme=dark&layout=compact)
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,world!&center=true&font=Roboto&size=27" />
+<div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,world!&center=true&font=Roboto&size=27" />
 </div>
 
 
