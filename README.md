@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChesterLin844&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChesterLin844&theme=dark&layout=compact)
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ChesterLin844" /> </div>
 
 
